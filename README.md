@@ -39,7 +39,7 @@ The project provides basic operations such as:
 
 ATM-Simulator/
 │
-└── 011.php
+└── index.php
 
 ## How to Run the Project
 
